@@ -34,4 +34,4 @@ Skills to Use (Optional):
 Using For loop to let the user opt for how many rounds he/she wants to play the game.
 Formatting text inputs from the user so that the program does not show inputs invalid if the inputs are not case-sensitive.
 Use isdigit() to mark the input invalid if it is a digit.
-Add two more elements in the game – Lizard and Spock. The game structure should look like:
+Add two more elements in the game – Lizard and Spock. #VIPatAINEAI #PROJECT5
